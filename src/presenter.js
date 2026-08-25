@@ -3,6 +3,7 @@ import saludar from "./saludador.js";
 const nombreInput = document.querySelector("#nombre-input");
 const edadInput = document.querySelector("#edad-input");
 const generoSelect = document.querySelector("#genero-select");
+const idiomaSelect = document.querySelector("#idioma-select");
 const form = document.querySelector("#saludar-form");
 const div = document.querySelector("#resultado-div");
 
@@ -11,9 +12,10 @@ form.addEventListener("submit", (event) => {
   const nombre = nombreInput.value;
   const edad = Number.parseInt(edadInput.value);
   const genero = generoSelect.value;
+  const idioma = idiomaSelect.value;
   let fechaActual = new Date();
   let horaActual = fechaActual.getHours();
   
-  const mensaje = saludar(nombre, horaActual, genero, edad);
+  const mensaje = saludar(nombre, horaActual, genero, edad, idioma);
   div.innerHTML = "<p>" + mensaje + "</p>";
 });

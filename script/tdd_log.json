@@ -30,9 +30,15 @@
     "testId": 4
   },
   {
-    "commitId": "HEAD",
+    "commitId": "358e14cf597b813d922a65277e93ac9dfaa059a6",
     "commitName": "realizar saludo utilizando validacion de edad",
     "commitTimestamp": 1787628025945,
     "testId": 5
+  },
+  {
+    "commitId": "HEAD",
+    "commitName": "refactor: saludo de acuerdo a configuracion de idioma",
+    "commitTimestamp": 1787628125816,
+    "testId": 6
   }
 ]
