@@ -6,9 +6,15 @@
     "testId": 0
   },
   {
-    "commitId": "HEAD",
+    "commitId": "52f2ba0bd9eb89eedfcc6e57adc3b0aa3d02afec",
     "commitName": "feat: implementar funcionalidad básica de saludo inicial",
     "commitTimestamp": 1787627460127,
     "testId": 1
+  },
+  {
+    "commitId": "HEAD",
+    "commitName": "feat: personalizar el saludo utilizando el nombre",
+    "commitTimestamp": 1787627577692,
+    "testId": 2
   }
 ]

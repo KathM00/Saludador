@@ -19,17 +19,36 @@
     "conclusion": "success"
   },
   {
-    "sha": "HEAD",
+    "sha": "52f2ba0bd9eb89eedfcc6e57adc3b0aa3d02afec",
     "author": "KathM00",
     "commit": {
       "date": "2026-08-25T03:10:58.000Z",
       "message": "feat: implementar funcionalidad básica de saludo inicial",
-      "url": "https://github.com/KathM00/Saludador/commit/HEAD"
+      "url": "https://github.com/KathM00/Saludador/commit/52f2ba0bd9eb89eedfcc6e57adc3b0aa3d02afec"
     },
     "stats": {
       "total": 31,
       "additions": 6,
       "deletions": 25,
+      "date": "2026-08-25"
+    },
+    "coverage": 0,
+    "test_count": 0,
+    "failed_tests": 0,
+    "conclusion": "neutral"
+  },
+  {
+    "sha": "HEAD",
+    "author": "KathM00",
+    "commit": {
+      "date": "2026-08-25T03:12:56.000Z",
+      "message": "feat: personalizar el saludo utilizando el nombre",
+      "url": "https://github.com/KathM00/Saludador/commit/HEAD"
+    },
+    "stats": {
+      "total": 4,
+      "additions": 2,
+      "deletions": 2,
       "date": "2026-08-25"
     },
     "coverage": 0,
