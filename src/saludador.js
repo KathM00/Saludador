@@ -7,6 +7,11 @@ export default function saludar(nombre, hora, genero, edad, idioma) {
       saludo: (esManana && "Buenos días") || (esTarde && "Buenas tardes") || "Buenas noches",
       M: "Sr. ",
       F: "Sra. "
+    },
+    en: {
+      saludo: (esManana && "Good morning") || (esTarde && "Good afternoon") || "Good evening",
+      M: "Mr. ",
+      F: "Mrs. "
     }
   };
   

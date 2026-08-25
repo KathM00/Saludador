@@ -36,9 +36,15 @@
     "testId": 5
   },
   {
-    "commitId": "HEAD",
+    "commitId": "915b99ecbb5a96d22e84ab4ca954519e05ed7f49",
     "commitName": "refactor: saludo de acuerdo a configuracion de idioma",
     "commitTimestamp": 1787628125816,
     "testId": 6
+  },
+  {
+    "commitId": "HEAD",
+    "commitName": "feat: implementar soporte de idioma ingles",
+    "commitTimestamp": 1787628360454,
+    "testId": 7
   }
 ]

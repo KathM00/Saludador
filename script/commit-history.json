@@ -114,17 +114,36 @@
     "conclusion": "neutral"
   },
   {
-    "sha": "HEAD",
+    "sha": "915b99ecbb5a96d22e84ab4ca954519e05ed7f49",
     "author": "KathM00",
     "commit": {
       "date": "2026-08-25T03:22:04.000Z",
       "message": "refactor: saludo de acuerdo a configuracion de idioma",
-      "url": "https://github.com/KathM00/Saludador/commit/HEAD"
+      "url": "https://github.com/KathM00/Saludador/commit/915b99ecbb5a96d22e84ab4ca954519e05ed7f49"
     },
     "stats": {
       "total": 24,
       "additions": 19,
       "deletions": 5,
+      "date": "2026-08-25"
+    },
+    "coverage": 0,
+    "test_count": 0,
+    "failed_tests": 0,
+    "conclusion": "neutral"
+  },
+  {
+    "sha": "HEAD",
+    "author": "KathM00",
+    "commit": {
+      "date": "2026-08-25T03:25:59.000Z",
+      "message": "feat: implementar soporte de idioma ingles",
+      "url": "https://github.com/KathM00/Saludador/commit/HEAD"
+    },
+    "stats": {
+      "total": 8,
+      "additions": 7,
+      "deletions": 1,
       "date": "2026-08-25"
     },
     "coverage": 0,
