@@ -152,17 +152,36 @@
     "conclusion": "neutral"
   },
   {
-    "sha": "HEAD",
+    "sha": "984fb976bc5bce95883f3a22a0f6c3623acd654c",
     "author": "KathM00",
     "commit": {
       "date": "2026-08-25T13:30:02.000Z",
       "message": "feat: implementar saludo default",
-      "url": "https://github.com/KathM00/Saludador/commit/HEAD"
+      "url": "https://github.com/KathM00/Saludador/commit/984fb976bc5bce95883f3a22a0f6c3623acd654c"
     },
     "stats": {
       "total": 2,
       "additions": 1,
       "deletions": 1,
+      "date": "2026-08-25"
+    },
+    "coverage": 0,
+    "test_count": 0,
+    "failed_tests": 0,
+    "conclusion": "neutral"
+  },
+  {
+    "sha": "HEAD",
+    "author": "KathM00",
+    "commit": {
+      "date": "2026-08-25T14:13:41.000Z",
+      "message": "feat: implementar mensaje de error en caso de valores no validos",
+      "url": "https://github.com/KathM00/Saludador/commit/HEAD"
+    },
+    "stats": {
+      "total": 12,
+      "additions": 10,
+      "deletions": 2,
       "date": "2026-08-25"
     },
     "coverage": 0,

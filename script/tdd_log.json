@@ -48,9 +48,15 @@
     "testId": 7
   },
   {
-    "commitId": "HEAD",
+    "commitId": "984fb976bc5bce95883f3a22a0f6c3623acd654c",
     "commitName": "feat: implementar saludo default",
     "commitTimestamp": 1787664604888,
     "testId": 8
+  },
+  {
+    "commitId": "HEAD",
+    "commitName": "feat: implementar mensaje de error en caso de valores no validos",
+    "commitTimestamp": 1787667223439,
+    "testId": 9
   }
 ]
