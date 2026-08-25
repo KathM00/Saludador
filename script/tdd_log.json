@@ -18,9 +18,15 @@
     "testId": 2
   },
   {
-    "commitId": "HEAD",
+    "commitId": "b6cdce44b7246411fb5f0e18026a7aa9f21d3575",
     "commitName": "feat: adaptar el saludo inicial según la hora",
     "commitTimestamp": 1787627657676,
     "testId": 3
+  },
+  {
+    "commitId": "HEAD",
+    "commitName": "feat: incorporar seleccion de genero en el saludo",
+    "commitTimestamp": 1787627912197,
+    "testId": 4
   }
 ]

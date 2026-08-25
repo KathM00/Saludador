@@ -57,17 +57,36 @@
     "conclusion": "neutral"
   },
   {
-    "sha": "HEAD",
+    "sha": "b6cdce44b7246411fb5f0e18026a7aa9f21d3575",
     "author": "KathM00",
     "commit": {
       "date": "2026-08-25T03:14:16.000Z",
       "message": "feat: adaptar el saludo inicial según la hora",
-      "url": "https://github.com/KathM00/Saludador/commit/HEAD"
+      "url": "https://github.com/KathM00/Saludador/commit/b6cdce44b7246411fb5f0e18026a7aa9f21d3575"
     },
     "stats": {
       "total": 8,
       "additions": 6,
       "deletions": 2,
+      "date": "2026-08-25"
+    },
+    "coverage": 0,
+    "test_count": 0,
+    "failed_tests": 0,
+    "conclusion": "neutral"
+  },
+  {
+    "sha": "HEAD",
+    "author": "KathM00",
+    "commit": {
+      "date": "2026-08-25T03:18:31.000Z",
+      "message": "feat: incorporar seleccion de genero en el saludo",
+      "url": "https://github.com/KathM00/Saludador/commit/HEAD"
+    },
+    "stats": {
+      "total": 44,
+      "additions": 40,
+      "deletions": 4,
       "date": "2026-08-25"
     },
     "coverage": 0,
