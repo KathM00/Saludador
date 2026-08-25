@@ -38,16 +38,35 @@
     "conclusion": "neutral"
   },
   {
-    "sha": "HEAD",
+    "sha": "10d78bb5794254b6a1398ed0cbb848afbeda1ff4",
     "author": "KathM00",
     "commit": {
       "date": "2026-08-25T03:12:56.000Z",
       "message": "feat: personalizar el saludo utilizando el nombre",
-      "url": "https://github.com/KathM00/Saludador/commit/HEAD"
+      "url": "https://github.com/KathM00/Saludador/commit/10d78bb5794254b6a1398ed0cbb848afbeda1ff4"
     },
     "stats": {
       "total": 4,
       "additions": 2,
+      "deletions": 2,
+      "date": "2026-08-25"
+    },
+    "coverage": 0,
+    "test_count": 0,
+    "failed_tests": 0,
+    "conclusion": "neutral"
+  },
+  {
+    "sha": "HEAD",
+    "author": "KathM00",
+    "commit": {
+      "date": "2026-08-25T03:14:16.000Z",
+      "message": "feat: adaptar el saludo inicial según la hora",
+      "url": "https://github.com/KathM00/Saludador/commit/HEAD"
+    },
+    "stats": {
+      "total": 8,
+      "additions": 6,
       "deletions": 2,
       "date": "2026-08-25"
     },

@@ -12,9 +12,15 @@
     "testId": 1
   },
   {
-    "commitId": "HEAD",
+    "commitId": "10d78bb5794254b6a1398ed0cbb848afbeda1ff4",
     "commitName": "feat: personalizar el saludo utilizando el nombre",
     "commitTimestamp": 1787627577692,
     "testId": 2
+  },
+  {
+    "commitId": "HEAD",
+    "commitName": "feat: adaptar el saludo inicial según la hora",
+    "commitTimestamp": 1787627657676,
+    "testId": 3
   }
 ]
