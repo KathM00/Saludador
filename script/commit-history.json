@@ -133,16 +133,35 @@
     "conclusion": "neutral"
   },
   {
-    "sha": "HEAD",
+    "sha": "224ae3273ab13fd7019a1629e321f4f21bde7795",
     "author": "KathM00",
     "commit": {
       "date": "2026-08-25T03:25:59.000Z",
       "message": "feat: implementar soporte de idioma ingles",
-      "url": "https://github.com/KathM00/Saludador/commit/HEAD"
+      "url": "https://github.com/KathM00/Saludador/commit/224ae3273ab13fd7019a1629e321f4f21bde7795"
     },
     "stats": {
       "total": 8,
       "additions": 7,
+      "deletions": 1,
+      "date": "2026-08-25"
+    },
+    "coverage": 0,
+    "test_count": 0,
+    "failed_tests": 0,
+    "conclusion": "neutral"
+  },
+  {
+    "sha": "HEAD",
+    "author": "KathM00",
+    "commit": {
+      "date": "2026-08-25T13:30:02.000Z",
+      "message": "feat: implementar saludo default",
+      "url": "https://github.com/KathM00/Saludador/commit/HEAD"
+    },
+    "stats": {
+      "total": 2,
+      "additions": 1,
       "deletions": 1,
       "date": "2026-08-25"
     },
