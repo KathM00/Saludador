@@ -1,8 +1,14 @@
 [
   {
-    "commitId": "HEAD",
+    "commitId": "62394e92893421ac757648ce2d440a55d6e8ec36",
     "commitName": "Feat: Saludar",
     "commitTimestamp": 1787235982193,
     "testId": 0
+  },
+  {
+    "commitId": "HEAD",
+    "commitName": "feat: implementar funcionalidad básica de saludo inicial",
+    "commitTimestamp": 1787627460127,
+    "testId": 1
   }
 ]

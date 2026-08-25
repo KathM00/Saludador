@@ -1,11 +1,11 @@
 [
   {
-    "sha": "HEAD",
+    "sha": "62394e92893421ac757648ce2d440a55d6e8ec36",
     "author": "KathM00",
     "commit": {
       "date": "2026-08-20T14:26:19.000Z",
       "message": "Feat: Saludar",
-      "url": "https://github.com/KathM00/Saludador/commit/HEAD"
+      "url": "https://github.com/KathM00/Saludador/commit/62394e92893421ac757648ce2d440a55d6e8ec36"
     },
     "stats": {
       "total": 12,
@@ -17,5 +17,24 @@
     "test_count": 1,
     "failed_tests": 0,
     "conclusion": "success"
+  },
+  {
+    "sha": "HEAD",
+    "author": "KathM00",
+    "commit": {
+      "date": "2026-08-25T03:10:58.000Z",
+      "message": "feat: implementar funcionalidad básica de saludo inicial",
+      "url": "https://github.com/KathM00/Saludador/commit/HEAD"
+    },
+    "stats": {
+      "total": 31,
+      "additions": 6,
+      "deletions": 25,
+      "date": "2026-08-25"
+    },
+    "coverage": 0,
+    "test_count": 0,
+    "failed_tests": 0,
+    "conclusion": "neutral"
   }
 ]
