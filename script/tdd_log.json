@@ -24,9 +24,15 @@
     "testId": 3
   },
   {
-    "commitId": "HEAD",
+    "commitId": "56b3b1f2308fe90454ebf1a81738f131675cfb66",
     "commitName": "feat: incorporar seleccion de genero en el saludo",
     "commitTimestamp": 1787627912197,
     "testId": 4
+  },
+  {
+    "commitId": "HEAD",
+    "commitName": "realizar saludo utilizando validacion de edad",
+    "commitTimestamp": 1787628025945,
+    "testId": 5
   }
 ]

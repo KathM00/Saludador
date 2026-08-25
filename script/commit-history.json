@@ -76,17 +76,36 @@
     "conclusion": "neutral"
   },
   {
-    "sha": "HEAD",
+    "sha": "56b3b1f2308fe90454ebf1a81738f131675cfb66",
     "author": "KathM00",
     "commit": {
       "date": "2026-08-25T03:18:31.000Z",
       "message": "feat: incorporar seleccion de genero en el saludo",
-      "url": "https://github.com/KathM00/Saludador/commit/HEAD"
+      "url": "https://github.com/KathM00/Saludador/commit/56b3b1f2308fe90454ebf1a81738f131675cfb66"
     },
     "stats": {
       "total": 44,
       "additions": 40,
       "deletions": 4,
+      "date": "2026-08-25"
+    },
+    "coverage": 0,
+    "test_count": 0,
+    "failed_tests": 0,
+    "conclusion": "neutral"
+  },
+  {
+    "sha": "HEAD",
+    "author": "KathM00",
+    "commit": {
+      "date": "2026-08-25T03:20:24.000Z",
+      "message": "realizar saludo utilizando validacion de edad",
+      "url": "https://github.com/KathM00/Saludador/commit/HEAD"
+    },
+    "stats": {
+      "total": 12,
+      "additions": 9,
+      "deletions": 3,
       "date": "2026-08-25"
     },
     "coverage": 0,
